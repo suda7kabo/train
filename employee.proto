@@ -20,7 +20,6 @@ enum Occupation {
     MANAGER = 3;
 }
 
-
 message Company {
     message Project {}
 }
